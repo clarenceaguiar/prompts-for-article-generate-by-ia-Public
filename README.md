@@ -53,7 +53,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     &nbsp&nbsp&nbsp
     <a href="https://github.com/clarenceaguiar">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="https://linkedin.com/in/clarence-silva-aguiar-5b896874">LinkedIn</a>
+    <a href="https://linkedin.com/in/clarence-aguiar">LinkedIn</a>
     </p>
 </p>
 
